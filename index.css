@@ -6,9 +6,10 @@ body {
   background-color: #e2ebf0;
 }
 .container {
-  width: 40%;
+  width: 100%;
   margin: auto;
   margin-top: 10rem;
+  padding: 1rem;
 }
 
 #input-el {
@@ -27,12 +28,12 @@ button {
   font-weight: bold;
 }
 #delete-btn {
-    border: 1px solid  #000080;
-    color: #000080;
-    padding: 10px 20px;
-    font-weight: bold;
-    background: white;
-  }
+  border: 1px solid #000080;
+  color: #000080;
+  padding: 10px 20px;
+  font-weight: bold;
+  background: white;
+}
 
 ul {
   list-style: none;
@@ -42,6 +43,6 @@ ul {
 li {
   margin-top: 5px;
 }
-li a{
+li a {
   color: #000080;
 }

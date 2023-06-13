@@ -1,13 +1,12 @@
 {
     "manifest_version": 3,
-    "verion": "1.1",
-    "name": "Flick",
-    "action" : {
+    "version": "1.1",
+    "name": "swiftsaver",
+    "action": {
         "default_popup": "index.html",
         "default_icon": "icon.png"
     },
-    "permission" : [
+    "permissions": [
         "tabs"
     ]
-
 }
