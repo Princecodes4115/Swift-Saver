@@ -5,9 +5,9 @@ Swift Saver is a powerful Chrome extension that simplifies the process of saving
 
 VISIT;
 * [SwiftSaver](https://swift-saver.vercel.app/)  
-* [Linkdin-blog](https://www.linkedin.com/posts/ezekiel-moses-557a63233_introducing-swift-saver-a-powerful-chrome-activity-7074431059966238720-zOp9?utm_source=share&utm_medium=member_desktop)
+* [Linkedin-blog](https://www.linkedin.com/posts/ezekiel-moses-557a63233_introducing-swift-saver-a-powerful-chrome-activity-7074431059966238720-zOp9?utm_source=share&utm_medium=member_desktop)
 
-#### Installation
+#### Installation And Usage
 * Visit google chrome extensions and search for swift saver
 * Download/Add
 * Copy url and paste at input box and click save input to save
@@ -22,4 +22,4 @@ VISIT;
 
 ## License
 
-All Rights Reserved © [Ezekiel Moses] [2023]
+All Rights Reserved © Ezekiel Moses 2023
